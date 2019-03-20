@@ -1,1 +1,1 @@
-SELECT COUNT (id) FROM bears;
+SELECT COUNT (*) FROM bears;
