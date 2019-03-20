@@ -1,6 +1,6 @@
 CREATE TABLE bears(
   id INTEGER;
-  name text;
+  name TEXT;
   age integer;
   gender text;
   color text;
