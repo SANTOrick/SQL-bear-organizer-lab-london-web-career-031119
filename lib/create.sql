@@ -1,5 +1,5 @@
 CREATE TABLE bears(
-  id integer;
+  id INTEGER;
   name text;
   age integer;
   gender text;
