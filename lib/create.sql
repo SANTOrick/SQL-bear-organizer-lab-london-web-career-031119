@@ -1,4 +1,4 @@
-CREATE TABLE bears(
+CREATE TABLE bears.db(
   id INTEGER;
   name TEXT;
   age integer;
