@@ -6,7 +6,6 @@ CREATE TABLE Bears(
   color text;
   temperament text;
   alive boolean;
-  
 );
 
 
