@@ -1,4 +1,4 @@
-CREATE TABLE Bears(
+CREATE TABLE bears(
   id integer;
   name text;
   age integer;
